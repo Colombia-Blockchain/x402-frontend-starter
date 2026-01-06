@@ -9,6 +9,5 @@
 /test-reports
 /test-coverage
 /test-logs
-/test-reports
-/test-coverage
-/test-logs
+*.tsbuildinfo
+.next
